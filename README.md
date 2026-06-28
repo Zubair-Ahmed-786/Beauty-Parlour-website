@@ -2,12 +2,12 @@ Beauty Parlour Website
 
 A Beautiful Responsive Landing page website, built with HTML and CSS.
 
-##Technologies Used
+Technologies Used
 
 - HTML5
 - CSS3
 
-##Features
+Features
 
 - Hero section
 - About section
@@ -17,6 +17,6 @@ A Beautiful Responsive Landing page website, built with HTML and CSS.
 - Resposive layout
 - Beautiful UI
 
-##Author
+Author
 
 Zubair Ahmed ( Zubair-Ahmed-786 )
